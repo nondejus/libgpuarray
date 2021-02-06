@@ -21,3 +21,7 @@ Y
 
 6 7 2 B    末 final, last, end; insignificant
 8 E A B    身 body; trunk, hull; rad. no. 158
+
+=======
+
+zero(4)    0x672B8EAB
