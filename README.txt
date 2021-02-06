@@ -19,9 +19,14 @@ Y
 
 -------
 
+5 2 1 3    刓 trim
+3 5 2 1    㔡 greatly; deeply, with great strength; vigorous
+5 2 3 1    刱 establish, create; knife cut
+3 5 1 2    㔒 to cut; to cut out; to pick out; to scoop out, to cut short; to spare
+
+
 6 7 2 B    末 final, last, end; insignificant
 8 E A B    身 body; trunk, hull; rad. no. 158
 
-=======
 
-zero(4)    0x672B8EAB
+
